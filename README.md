@@ -36,3 +36,12 @@ This weeks module consists of the following two deliverables:
 ### Deliverable 2: A written report on the UFO analysis (README.md) (AS SEEN HERE)
 
 ## Summary
+
+### Drawbacks
+
+A potential drawback of the designed web page is the limitations of the filters. For example, the search criteria is case sensitive just as JavaScript itself is. Were someone to look up El Cajon under the city filter, no results would be found, as opposed to five results being found under el cajon. In addition, if someone were to place a space at the end of their search, they would garner no results. The webpage is also linked to a static dataset of solely the United States, meaning that the webpage will not be updated as more UFO sightings are made across the world. Therefore, the web page is prone to human error due to its limitations. 
+
+### Recommendations
+
+(1) There is the possibility that an individual may have a limited recollection or access to the specifics of their search. To remedy this, I could expand the functions of the filters to allow for a range of numbers, states, countries, etc. For example, if someone was looking for a particular UFO sighting but they only knew the month that it took place. Expanding the filter to a range would allow for this individual to see all UFO sightings within a specific month. 
+(2) If the webpage was linked to a more functional dataset that adjusted to new sightings from around the world, this webpage would be far more pertinent towards studies on UFOs and become more accessible to the general public. 
